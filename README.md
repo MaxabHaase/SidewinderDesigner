@@ -1,4 +1,4 @@
-# SidewinderDesignerv2
+# Sidewinder Designer v2
 
 A local design toolkit for **Sidewinder DNA assembly**.
 
